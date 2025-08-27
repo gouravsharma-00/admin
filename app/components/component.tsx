@@ -8,7 +8,7 @@ import { UserFeedback } from '@components/ui/userFeedback';
 
 export function App() {
     return(
-        <main aria-label='main' className='w-screen h-screen flex justify-center'>
+        <main aria-label='main' className='w-screen h-screen flex justify-center content-center'>
             <UserFeedback />
         </main>
     )
